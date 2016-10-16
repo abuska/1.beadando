@@ -1,13 +1,13 @@
 # 1.beadando:
 
-RÖVID ISMERTETŐ:
+# RÖVID ISMERTETŐ:
   Egy webalkalmazás ami lehetővé teszi filmek pontozását és szöveges értékelését.
   A felhasználók lehetnek vendégek (nem regisztrált felhasználók), illetve regisztrált felhasználók(csak ők adhatnak értékelést).
 
-KÖVETELMÉNYEK ÖSSZEGYŰJTÉSE:
+# KÖVETELMÉNYEK ÖSSZEGYŰJTÉSE:
   Funkcionális elvárások
   nyújtandó szolgáltatások ismertetése
-Nem funkcionális követelmények
+# Nem funkcionális követelmények
   használhatóság
   teljesítmény
   rendelkezésre állás
@@ -15,7 +15,7 @@ Nem funkcionális követelmények
   biztonság
   karbantarthatóság
   
-FUNKCIONÁLIS KÖVETELMÉNYEK:
+# FUNKCIONÁLIS KÖVETELMÉNYEK:
   Vendégként a főoldalon szeretnék kiemelt filmeket látni kategóriánként.
   Vendégként szeretnék a filmek között szabadon böngészni.
   Vendégként szeretnék egy filmleírást megtekinteni.
@@ -27,16 +27,16 @@ FUNKCIONÁLIS KÖVETELMÉNYEK:
   Felhasználóként szeretném a megnézett filmek listáját módosítani vagy törölni.
   Felhasználóként szeretném pontozni egy 10-es skálán a már látott filmeket.
   
-NEM FUNKCIONÁLIS KÖVETELMÉNYEK:
+# NEM FUNKCIONÁLIS KÖVETELMÉNYEK:
   Felhasználóbarát, ergonomikus elrendezés és kinézet.
   Gyors működés.
   Biztonságos működés: jelszavak tárolása, funkciókhoz való hozzáférés.
   
-SZEREPKÖRÖK:
+# SZEREPKÖRÖK:
   jogosultsági csoportok
   elérhető funkciók
   
-SZEREPKÖRÖK:
+# SZEREPKÖRÖK:
   vendég: filmek keresését, böngészését, értékelések megtekintését végezheti.
   felhasználó: a vendég szerepkörén túl a látott filmek kezelésére, értékelésére (új, módosít, törlés) képes.
   
