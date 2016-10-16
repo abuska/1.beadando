@@ -2,9 +2,8 @@
 
 # RÖVID ISMERTETŐ:
 
--
-  Egy webalkalmazás ami lehetővé teszi filmek pontozását és szöveges értékelését.
-  A felhasználók lehetnek vendégek (nem regisztrált felhasználók), illetve regisztrált felhasználók(csak ők adhatnak értékelést).
+ - Egy webalkalmazás ami lehetővé teszi filmek pontozását és szöveges értékelését.
+ - A felhasználók lehetnek vendégek (nem regisztrált felhasználók), illetve regisztrált felhasználók(csak ők adhatnak értékelést).
 
 # KÖVETELMÉNYEK ÖSSZEGYŰJTÉSE:
   Funkcionális elvárások
