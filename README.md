@@ -1,4 +1,4 @@
-# 1.beadando:
+# 1. BEADANDÓ:
 
 # RÖVID ISMERTETŐ:
 
