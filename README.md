@@ -7,7 +7,7 @@
 # KÖVETELMÉNYEK ÖSSZEGYŰJTÉSE:
   Funkcionális elvárások
   nyújtandó szolgáltatások ismertetése
-# Nem funkcionális követelmények
+  Nem funkcionális követelmények
   használhatóság
   teljesítmény
   rendelkezésre állás
