@@ -2,8 +2,9 @@
 
 # RÖVID ISMERTETŐ:
 
- - Egy webalkalmazás ami lehetővé teszi filmek pontozását és szöveges értékelését.
- - A felhasználók lehetnek vendégek (nem regisztrált felhasználók), illetve regisztrált felhasználók(csak ők adhatnak értékelést).
+ - Egy olyan webalkalmazás amely, elősegíti egy könyvesbolt rendeléseinek a nyilvántartását.
+ - A felhasználók lehetnek vendégek (nem regisztrált felhasználók), regisztrált felhasználók( rendelhetnek könyveket ), illetve dolgozók, akik átállíthatják a felvett rendelések státuszát.
+ 
 
 # KÖVETELMÉNYEK ÖSSZEGYŰJTÉSE:
 
@@ -19,16 +20,16 @@
   
 # FUNKCIONÁLIS KÖVETELMÉNYEK:
 
--  Vendégként a főoldalon szeretnék kiemelt filmeket látni kategóriánként.
--  Vendégként szeretnék a filmek között szabadon böngészni.
--  Vendégként szeretnék egy filmleírást megtekinteni.
--  Vendégként szeretnék filmet keresni.
--  Vendégként szeretnék tudni regisztrálni az oldalra.
--  Felhasználóként szeretnék tudni bejelentkezni az oldalra.
--  Felhasználóként szeretném tudni a profiladataimat szerkeszteni.
--  Felhasználóként szeretnék új megjegyzést beküldeni.
--  Felhasználóként szeretném a megnézett filmek listáját módosítani vagy törölni.
--  Felhasználóként szeretném pontozni egy 10-es skálán a már látott filmeket.
+-  Vendégként a főoldalon kiemelt ajánlatokat láthatunk kategóriánként.
+-  Vendégként megtekinthetjük a könyek leírását.
+-  Vendégként kereshetünk a könyvek között.
+-  Vendégként regisztrálhatunk az oldalra.
+-  Felhasználóként be tudunk jelentkezni az oldalra.
+-  Felhasználóként szerkeszthejük a profiljukat.
+-  Felhasználóként új rendelést küldhetünk be.
+-  Felhasználóként láthatjuk régebbi rendeléseinket.
+-  Dolgozóként láthatjuk a megrendelések listáját.
+-  Dolgozóként állíthatjuk egy rendelés státuszát.
   
 # NEM FUNKCIONÁLIS KÖVETELMÉNYEK:
 
@@ -43,7 +44,8 @@
   
 # SZEREPKÖRÖK:
 
--  vendég: filmek keresését, böngészését, értékelések megtekintését végezheti.
--  felhasználó: a vendég szerepkörén túl a látott filmek kezelésére, értékelésére (új, módosít, törlés) képes.
+-  vendég: könyvek keresését, böngészését, leírások/ajánlók megtekintését végezheti.
+-  felhasználó: a vendég szerepkörén túl rendelések beküldésére jogosult, illetve listázhatja régebbi rendeléseit.
+-  dolgozók: látják a rendelési listát, illetve a rendelések státuszát átállíthatják.
   
   
